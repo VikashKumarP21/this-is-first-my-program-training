@@ -1,9 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
 
-function App() {
+
+ export default function First() {
   return (
-    <div className="App">
+    <div className="First">
       <h1 className='ee'>Welcome to the world of React Js</h1>
       <p1>Hello Vikash </p1>
       <h2>My Favorite React JS</h2>
@@ -47,14 +46,14 @@ function App() {
       </table>
 
       <ol type='a'>  
-          <li className='tt'>laptop </li>  
+          <li className='aa'>laptop </li>  
           <li>mobile</li>  
           <li>books</li>  
           <li>pen</li>  
         </ol>  
 
         <ol start='101'>  
-          <li className='ee'> laptop </li>  
+          <li className='aa'> laptop </li>  
           <li>mobile</li>  
           <li>books</li>  
           <li>pen</li>  
@@ -68,7 +67,7 @@ function App() {
         </ol>
 
         <ul>  
-          <li className='tt'>aman </li>  
+          <li className='aa'>aman </li>  
           <li>mobile</li>  
           <li>books</li>  
           <li>pen</li>  
